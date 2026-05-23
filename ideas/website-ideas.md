@@ -53,6 +53,13 @@ Use this file as the source list for hourly website automation. Ideas are marked
   - Wow moment: AI-assisted copy and FAQ generator tuned for the business type and neighborhood.
   - Next: pick one concrete business; add real image slots; build editable content JSON.
 
+- [x] Neighborhood weekender (hyperlocal planner)
+  - Draft: `generated/neighborhood-weekender/README.md`
+  - Hackathon pitch: Stop doom-scrolling and get a confident 3–5 stop weekend plan near you in one tap.
+  - Demo hook: Pick a neighborhood, time window, radius, budget, and vibes; generate a plan; swap one stop and watch it re-plan coherently.
+  - Wow moment: Constraint-aware re-plan that keeps the itinerary within the selected time window and distance.
+  - Next: seed 1 neighborhood (15 venues/10 events); implement swap + re-plan; add share links + `.ics` export.
+
 ## New Idea Template
 
 ```md
